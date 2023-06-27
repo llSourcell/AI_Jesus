@@ -16,7 +16,9 @@ Install each with [pip](https://pip.pypa.io/en/stable/installation/) install "de
 
 ## Usage
 
-Run the following to talk to jesus.
+1. Replace the api_key line with your openai api key 
+
+2. Run the following to talk to jesus.
 
 `streamlit run jesus.py`
 
